@@ -1,0 +1,7 @@
+site_name: CyberTraining
+site_url: https://compchem-cybertraining.github.io/
+nav:
+    - Home: index.md
+    - About: about.md
+#theme: bootstrap4
+theme: gitbook
