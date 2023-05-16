@@ -2,6 +2,21 @@ site_name: CyberTraining
 site_url: https://compchem-cybertraining.github.io/
 nav:
     - Home: index.md
+    - Software-Tutorials:
+        - "Libra" : Software_Tutorials/libra.md
+        - "Newton-X" : Software_Tutorials/newtonx.md
+        - "SHARC" : Software_Tutorials/sharc.md
+        - "DyneMol" : Software_Tutorials/dynemol.md
+        - "pyUNIxMD" : Software_Tutorials/pyunixmd.md
+        - "CT-MQC" : Software_Tutorials/ctmqc.md
+        - "DFTB+" : Software_Tutorials/dftb+.md
+        - "COLUMBUS" : Software_Tutorials/columbus.md
+        - "OpenMolcas" : Software_Tutorials/molcas.md
+        - "ORCA" : Software_Tutorials/orca.md
+        - "CP2K" : Software_Tutorials/cp2.md
+        - "Quantum Espresso and eQE" : Software_Tutorials/qe_and_eqe.md
+    - Events: events.md
     - About: about.md
 #theme: bootstrap4
-theme: gitbook
+#theme: gitbook
+theme: readthedocs
